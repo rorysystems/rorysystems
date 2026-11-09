@@ -53,6 +53,5 @@ curl -fsSL https://raw.githubusercontent.com/rorysystems/rory-assistant/main/ins
 - **Instagram:** [@rory.systems](https://www.instagram.com/rory.systems)
 - **Comercial:** [comercial@rorysystems.com](mailto:comercial@rorysystems.com)
 - **WhatsApp:** [(47) 99268-1391](https://wa.me/5547992681391)
-- **LinkedIn:** [Bryan Rory](https://linkedin.com/in/bryan-rory)
 
 <div align="center"><sub>© 2026 Rory Systems · Blumenau, SC</sub></div>
